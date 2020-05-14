@@ -31,11 +31,11 @@ linkedin: 'username'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about.html
   - text: Style Guide
-    url: /style-guide/
+    url: /style-guide.html
   - text: Contact Me
-    url: /contact/
+    url: /contact.html
 
 # Required Plugins
 plugins_dir:
