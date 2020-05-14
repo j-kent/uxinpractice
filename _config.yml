@@ -50,8 +50,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Permalinks
-# permalink: /:title
-permalink: pretty
+permalink: /:title
 
 # Other
 markdown: kramdown
