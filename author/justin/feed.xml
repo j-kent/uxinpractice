@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="/author/justin/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-05-14T22:43:55-04:00</updated>
+  <id>/author/justin/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">UX in Practice | </title>
+  
+
+  
+    <subtitle>User Experience and Design</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">First Post</title>
+      <link href="/first-post" rel="alternate" type="text/html" title="First Post" />
+      <published>2020-05-13T00:00:00-04:00</published>
+      <updated>2020-05-13T00:00:00-04:00</updated>
+      <id>/first-post</id>
+      <content type="html" xml:base="/first-post">&lt;p&gt;&lt;strong&gt;First Post&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;#Page Template&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Justin</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Design" />
+      
+        <category term="Tips" />
+      
+
+      
+        <summary type="html">First Post Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
