@@ -3,10 +3,10 @@
   <channel>
     <title>UX in Practice</title>
     <description>User Experience and Design</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Oct 2020 12:41:18 -0400</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2020 12:41:18 -0400</lastBuildDate>
+    <link>http://www.uxinpractice.com/</link>
+    <atom:link href="http://www.uxinpractice.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Oct 2020 15:14:31 -0400</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2020 15:14:31 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -132,8 +132,8 @@
 &lt;p&gt;Well, that’s my thoughts on the strengths of these apps. If you want a thorough breakdown of the features and capabilities of the top 18 UX tools check out uxtools.co. By the way, I personally use Figma and Axure daily, and have used all the tools on this list at some point in my career. And of course there’s ol’ trusty photoshop for the heavy graphic stuff- although I did just get the demo for Affinity Designer, which I used to make the graphics for this article. There’s always something new to try out.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Sep 2020 00:00:00 -0400</pubDate>
-        <link>/What-UX-Tool-should-I-Use.html</link>
-        <guid isPermaLink="true">/What-UX-Tool-should-I-Use.html</guid>
+        <link>http://www.uxinpractice.com/What-UX-Tool-should-I-Use.html</link>
+        <guid isPermaLink="true">http://www.uxinpractice.com/What-UX-Tool-should-I-Use.html</guid>
         
         <category>Design</category>
         
@@ -180,8 +180,8 @@ Image	&lt;img src=&quot;image.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/li&gt
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 15 May 2020 00:00:00 -0400</pubDate>
-        <link>/page-template.html</link>
-        <guid isPermaLink="true">/page-template.html</guid>
+        <link>http://www.uxinpractice.com/page-template.html</link>
+        <guid isPermaLink="true">http://www.uxinpractice.com/page-template.html</guid>
         
         <category>Design</category>
         
@@ -201,8 +201,8 @@ Image	&lt;img src=&quot;image.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/li&gt
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 May 2020 00:00:00 -0400</pubDate>
-        <link>/first-post.html</link>
-        <guid isPermaLink="true">/first-post.html</guid>
+        <link>http://www.uxinpractice.com/first-post.html</link>
+        <guid isPermaLink="true">http://www.uxinpractice.com/first-post.html</guid>
         
         <category>Design</category>
         

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://www.uxinpractice.com/sitemap.xml
