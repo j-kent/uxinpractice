@@ -5,9 +5,190 @@
     <description>User Experience and Design</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 May 2020 23:21:08 -0400</pubDate>
-    <lastBuildDate>Thu, 14 May 2020 23:21:08 -0400</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2020 12:41:18 -0400</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2020 12:41:18 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Which UX tool should I use?</title>
+        <description>&lt;p&gt;There are many UX and UI tools out there. And there are probably an equal amount of guides, articles and charts comparing them. Which one should you pick? While these tools may overlap their features and capabilities, some are lacking in certain areas. That is why, dear reader, I will attempt to highlight the strengths and weaknesses of some of the most popular applications so you can make the right choice for the design task at hand.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’ve broken down the selections by domain strength, with what I feel is the best choice for each. I understand that you might be limited as to the tools you can use depending on your organization, budget, team dynamics, operating system, etc. - so each pick will have some alternative choices that will hopefully suffice.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;wireframing&quot;&gt;Wireframing&lt;/h2&gt;
+
+&lt;p&gt;First and foremost, you need a tool that can wireframe. All of these UX apps can do it, but which one really excels and lets you quickly capture ideas that can be conveyed to peers and colleagues.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/xd.jpg&quot; alt=&quot;Adobe XD&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-adobe-xd&quot;&gt;My Pick: Adobe XD&lt;/h3&gt;
+
+&lt;p&gt;A recent addition to Adobe’s roster, XD has a lot of ground to make up. The first thing I noticed with XD was how spartan and clean the UI was compared to other Adobe products, Premiere it is not. Wireframing is a breeze with XD. You can quickly knock together UIs using some nifty layout tools like Repeat Grid that make what used to be tedious (repetitive copying and pasting, nudging, distributing, aligning). Symbols (called Components in XD) are easy to create and manage, and there are some powerful prototyping abilities in there as well. It even supports voice interactions! If you already have a creative cloud subscription, it’s worth checking out. It may surprise you.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Excels:&lt;/strong&gt; Wireframing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good:&lt;/strong&gt; Prototyping, Collaboration&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Needs improvement:&lt;/strong&gt; Drawing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep in mind:&lt;/strong&gt; Subscription, Adobe Creative Cloud, Limited free version&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative:&lt;/strong&gt; Axure or Balsamiq.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;drawing&quot;&gt;Drawing&lt;/h2&gt;
+
+&lt;p&gt;Do you need to create icons, edit SVGs, make a new company logo? Some very powerful and popular UX design tools (&lt;em&gt;cough Axure cough Adobe XD&lt;/em&gt;) can’t do much at all in the area of creating new assets. So, which ones are good at it?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/sketch.jpg&quot; alt=&quot;Sketch&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-sketch&quot;&gt;My Pick: Sketch&lt;/h3&gt;
+
+&lt;p&gt;Not so good for sketching in the traditional sense, but it’s a decently powerful vector design app with a solid set of tools. It can even do some limited raster (pixel) editing, and has some very good export options. Complex illustrations might require a more powerful tool like Adobe Illustrator or Affinity Designer, but compared to other UX/UI tools out there, sketch stands above the rest for drawing capability and export options.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Excels:&lt;/strong&gt; Drawing, Plugins, Community&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good:&lt;/strong&gt; Collaboration&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Needs improvement:&lt;/strong&gt; Prototyping&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep in mind:&lt;/strong&gt; Sketch is Mac only&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative:&lt;/strong&gt; Figma. Figma has some very nice vector tools and the UI is pretty similar to sketch, so users should be right at home. It’s browser based so there are some performance considerations, but has offline versions for Mac and Windows. It’s also very easy to try out.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;prototyping&quot;&gt;Prototyping&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/axure.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-axure&quot;&gt;My Pick: Axure&lt;/h3&gt;
+
+&lt;p&gt;If you need complex prototyping and interactions, Axure is the way to go. While it can get daunting at times, no other program I’ve found has the capabilities and general ease-of-use of Axure. Fully functional text fields, form, lightboxes, animation and more. You can pass variables between pages to create some very impressive effects. It can’t draw as well as Sketch or collaborate as well as Figma, but when I need to convey an intricate interaction or create a very realistic approximation of real working software, Axure is the best pick for the job.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Excels:&lt;/strong&gt; Prototyping, Wireframing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good:&lt;/strong&gt; Collaboration&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Needs improvement:&lt;/strong&gt; Drawing, Responsive design, Exporting&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep in mind:&lt;/strong&gt; Creating complex interactions sometimes can get, well… complex. Also, it can’t export images of your designs, everything is viewed in the browser.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative:&lt;/strong&gt; iRise. iRise feels similar to Axure, like bizzarro Axure even. It has many of the prototyping features of Axure, is web based (though there is a somewhat dated desktop version), but it’s pretty pricey compared to other ux/ui tools.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h2&gt;
+
+&lt;p&gt;There’s no getting around it. You’re going to have to work with other people at some point. Share assets with teammates, pick up a project that someone else started, swarm on a big project, share and present ideas to your boss, or his boss, or the leadership, things like that. What app makes this a little easier?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/figma.jpg&quot; alt=&quot;Figma&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-figma&quot;&gt;My Pick: Figma&lt;/h3&gt;
+
+&lt;p&gt;Figma feels like it was built from the ground up to enable collaboration. Since it is web based, projects are immediately saved and can easily be made accessible to teammates and co-workers. With real-time collaboration, multiple designers can work on the same design in real time without the fear of working from old versions or overwriting files. Using Figma to create a design system is a breath of fresh air. Components can be easily updated across older designs. It’s pretty impressive when you start to use it to its full potential. It also has great drawing tools. If prototyping and performance would improve just a bit, it would be the perfect tool.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Excels:&lt;/strong&gt; Collaboration, Drawing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good:&lt;/strong&gt; Prototyping, Wireframing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Needs improvement:&lt;/strong&gt; Performance&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep in mind:&lt;/strong&gt; Figma is web based, so I’ve noticed some performance issues. There is an electron based desktop version that can still get laggy at times.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative:&lt;/strong&gt; Sketch. There’s a lot of options for collaboration with Sketch: native Sketch for Teams or any number of plugins: Abstract, Craft by InVision, Zeroheight, Kaktus, the list goes on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;animation--motion-design&quot;&gt;Animation &amp;amp; Motion Design&lt;/h2&gt;
+
+&lt;p&gt;I don’t really use much animation in my designs, other than basic sliding and fading. Most UX tools have some basic animation and transitioning between screens and states, but it ends there. What if you need to do some serious motion design involving multiple elements moving and scaling in a beautiful synchronized UI dance?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/invision.jpg&quot; alt=&quot;Invision&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-invision-studio&quot;&gt;My Pick: Invision Studio&lt;/h3&gt;
+
+&lt;p&gt;Invision stands apart from other UX and UI tools by having a robust animation capability. It features a collection of built-in animations and transitions that cover the standard things you’d see in modern apps and the web. If you need to fine tune or create something from scratch, there’s a complete timeline editor available similar to Premiere Pro. Invision Studio is a pretty great tool even apart from its animation features, it might become your primary UX/UI design tool.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative:&lt;/strong&gt; Framer. Or is it Framer X? Or Framer Web? I haven’t used this tool, but have kept an eye on it over the years. I think it used to be a javascript library? And now there’s also a React motion library by Framer. Either way, it seems like it can do slick UI animation. Might be worth checking out if Invision Studio doesn’t work for you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;ease-of-entry&quot;&gt;Ease of Entry&lt;/h2&gt;
+
+&lt;p&gt;I get asked often by UXers, “what wireframing tool should I use?” They could be developers, product managers, graphic designers. My old go-to answer used to be to just stick with pencil &amp;amp; paper, since the barrier to entry and learning curve was too steep. Plus I don’t really want to get into all the capabilities, pros and cons, cost… (which leads to the follow up question “Oh, is there a free one?”). But that’s why I wrote this article. Stop asking me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/balsamiq.jpg&quot; alt=&quot;Balsamiq&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-balsamiq&quot;&gt;My Pick: Balsamiq&lt;/h3&gt;
+
+&lt;p&gt;It’s great. Signup and start wireframing. It’s easy to start, the assets and symbols are right there, the UI is familiar and easy easy easy. Yet it’s powerful enough to use for even the most seasoned UX veteran.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Excels:&lt;/strong&gt; Wireframing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good:&lt;/strong&gt; Wireframing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Needs improvement:&lt;/strong&gt; I mean, it really just does wireframing. That’s it’s focus, and it’s good at it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep in mind:&lt;/strong&gt; The wireframes it produces have a sketchy black &amp;amp; white look, to focus on layout and content.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative:&lt;/strong&gt; draw.io is free and open source, and even built into some tools like Atlassian Confluence. If you need a low barrier of entry, draw.io is hard to beat. And you can produce some pretty good wireframes with it, too.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;extra-credit-flow-charts-and-diagrams&quot;&gt;Extra Credit: Flow Charts and Diagrams&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/axure.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;my-pick-axure-1&quot;&gt;My Pick: Axure&lt;/h3&gt;
+
+&lt;p&gt;This isn’t as complete a section as the others, but I want to mention it. As a Product Designer I find myself needing to create site maps and flowcharts quite a bit. Axure and draw.io perform quite well with linking nodes, smart arrows, etc. that are essential to creating flow charts that other design tools don’t have build in.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Well, that’s my thoughts on the strengths of these apps. If you want a thorough breakdown of the features and capabilities of the top 18 UX tools check out uxtools.co. By the way, I personally use Figma and Axure daily, and have used all the tools on this list at some point in my career. And of course there’s ol’ trusty photoshop for the heavy graphic stuff- although I did just get the demo for Affinity Designer, which I used to make the graphics for this article. There’s always something new to try out.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Sep 2020 00:00:00 -0400</pubDate>
+        <link>/What-UX-Tool-should-I-Use.html</link>
+        <guid isPermaLink="true">/What-UX-Tool-should-I-Use.html</guid>
+        
+        <category>Design</category>
+        
+        <category>Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Page Template</title>
+        <description>&lt;p&gt;&lt;strong&gt;Page Template&lt;/strong&gt; is a mixed discipline between design and information-development which is concerned with how media intermission such as printed, crafted, electronic media or presentations communicate with people. A communication design approach is not only concerned with developing the message aside from the aesthetics in media, but also with creating new media channels to ensure the message reaches the target audience. Some designers use graphic design and communication design interchangeably due to overlapping skills.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;#Page Template&lt;/p&gt;
+
+&lt;p&gt;test content&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/xd.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
+&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
+&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;
+&lt;em&gt;italicized text&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;blockquote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First item&lt;/li&gt;
+  &lt;li&gt;Second item&lt;/li&gt;
+  &lt;li&gt;Third item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First item&lt;/li&gt;
+  &lt;li&gt;Second item&lt;/li&gt;
+  &lt;li&gt;Third item
+&lt;code class=&quot;highlighter-rouge&quot;&gt;code&lt;/code&gt;
+Horizontal Rule	—
+Link	&lt;a href=&quot;https://www.example.com&quot;&gt;title&lt;/a&gt;
+Image	&lt;img src=&quot;image.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 15 May 2020 00:00:00 -0400</pubDate>
+        <link>/page-template.html</link>
+        <guid isPermaLink="true">/page-template.html</guid>
+        
+        <category>Design</category>
+        
+        <category>Tips</category>
+        
+        
+      </item>
     
       <item>
         <title>First Post</title>
@@ -20,8 +201,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 May 2020 00:00:00 -0400</pubDate>
-        <link>/first-post</link>
-        <guid isPermaLink="true">/first-post</guid>
+        <link>/first-post.html</link>
+        <guid isPermaLink="true">/first-post.html</guid>
         
         <category>Design</category>
         
